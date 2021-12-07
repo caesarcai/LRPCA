@@ -27,7 +27,7 @@ d2 				= 1000		# size (num. of columns)
 alpha 			= 0.1		# fraction of outliers
 step_initial 	= 0.5		# initial value of step size (eta in the paper)
 ths_initial 	= 1e-3		# initial value of thresholds (zeta in the paper)
-maxIt 			= 3		# num. of layers you want to train
+maxIt 			= 15		# num. of layers you want to train
 
 ## =============Generate RPCA problems=============
 def generate_problem(r,d1,d2,alpha):
