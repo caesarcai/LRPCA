@@ -4,9 +4,11 @@ This repository is for our paper:
 
 [1] HanQin Cai, Jialin Liu, and Wotao Yin. Learned Robust PCA: A Scalable Deep Unfolding Approach for High-Dimensional Outlier Detection. In *Advances in Neural Information Processing Systems*, 2021.
 
+###### To display math symbols properly, one may have to install a MathJax plugin. For example, [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en).
+
 #### Problem description
 
-Given $Y = X + S$, where $X$ is the underlying low-rank matrix, $S$ is the ourlier, we want to recover $X$ from $Y$. 
+Given $Y = X + S$, where $X$ is the underlying low-rank matrix, $S$ is the sparse ourlier matrix, we aim to recover $X$ (and/or $S$ in some applications) from $Y$. 
 
 #### Files description
 
