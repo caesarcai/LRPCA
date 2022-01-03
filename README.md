@@ -6,7 +6,7 @@ This repository is for our paper:
 
 #### Problem description
 
-Given Y = X + S, where X is the underlying low-rank matrix, S is the ourlier, we want to recover X from Y. 
+Given $Y = X + S$, where $X$ is the underlying low-rank matrix, $S$ is the ourlier, we want to recover $X$ from $Y$. 
 
 #### Files description
 
