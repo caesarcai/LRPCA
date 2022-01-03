@@ -8,7 +8,7 @@ This repository is for our paper:
 
 #### Problem description
 
-Given $Y = X + S$, where $X$ is the underlying low-rank matrix, $S$ is the sparse ourlier matrix, we aim to recover $X$ (and/or $S$ in some applications) from $Y$. 
+Given $Y = X + S$ where $X$ is the underlying low-rank matrix and $S$ is the sparse ourlier matrix, robust principal component analysis (RPCA) aims to recover $X$ and/or $S$ from the observed $Y$, depending on the application. 
 
 #### Files description
 
