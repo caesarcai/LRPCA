@@ -12,18 +12,18 @@ Given $Y = X + S$ where $X$ is the underlying low-rank matrix and $S$ is the spa
 
 #### Files description
 
-* "synthetic_data_exp" involves our codes for the synthetic-data experiments[^1].
+* `synthetic_data_exp` involves our codes for the synthetic-data experiments[^1].
 [^1]: Other parts will be released soon.
 
 #### First Time to Run
 
-* Enter "synthetic_data_exp" and run "testing_codes_matlab.m" directly.
-* The test script will call a trained model stored in "synthetic_data_exp/trained_models"
+* Enter `synthetic_data_exp` and run `testing_codes_matlab.m` directly.
+* The test script will call a trained model stored in `synthetic_data_exp/trained_models`.
 
 #### Training the Model
 
-* Enter "synthetic_data_exp" and run "training_codes.py" directly.
-* The training script will write the model into a ".mat" file that the test script can load.
+* Enter `synthetic_data_exp` and run `training_codes.py` directly.
+* The training script will write the model into a `.mat` file that the test script can load.
 
 #### Dependencies
 
